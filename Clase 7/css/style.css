@@ -71,6 +71,7 @@ section button{
 }
 
 footer{
+    margin-top: 5em;
     background-color: #00669F;
 }
 
@@ -102,4 +103,22 @@ footer p{
     background-size: contain;
     height: 15em;
     border-radius: 20px 20px 0px 0px;
+}
+
+.plus{
+    background-color: #00669F;
+    width: 4em;
+    height: 4em;
+    border-radius: 40px;
+    position: fixed;
+    top: 50%;
+    left: 93%;
+
+}
+
+.plus i{
+    position: relative;
+    font-size: 2em;
+    color: white;
+    transform: translate(60%, 50%);
 }
