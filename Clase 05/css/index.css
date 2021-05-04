@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+header{
+    text-align: center;
+    background-color: #DDDDDD;
+}
+header h1 {
+  letter-spacing: 5pt; /* para separar entgre letras */
+  word-spacing: 11pt; /* para separacion entre palabras */
+  color: #1f487c;
+  background-color: #BFBFBF;
+  margin-top: 0.5em;
+}
+main{
+    width: 50%;
+    margin: 3em;
+    margin-left: 25%;
+}
+
+main section h2{
+  letter-spacing: 3pt; /* para separar entgre letras */
+  word-spacing: 5pt; /* para separacion entre palabras */
+  background-color: rgb(191, 191, 191);
+  color: rgb(96, 61, 65);
+  font-weight: bolder;
+}
+
+main section span{
+  font-weight: bold;
+  font-style: italic;
+}
+
+footer{
+  text-align: center;
+  background-color: rgb(30, 72, 124);
+}
+
+footer p{
+  padding: 0.3em;
+  margin: 0;
+  color: white;
+}
+
+footer img{
+  width: 15px;
+}
+
