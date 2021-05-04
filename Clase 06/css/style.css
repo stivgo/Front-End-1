@@ -1,0 +1,25 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.background-header{
+    margin-top: 2em;
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.7)), url('../img/lemon-pie.png') no-repeat 0em -10em;
+    background-size: cover;
+    color: white;
+    height: 19em;
+    opacity: 2;
+}
+a{
+    color: orangered;
+}
+
+h1{
+    font-weight:600;
+}
+
+h3{
+    font-style: italic;
+    font-weight:500;
+}
+
